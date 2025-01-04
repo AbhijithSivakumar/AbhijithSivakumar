@@ -63,8 +63,9 @@ I'm Abhijith, a Certified SOC Analyst, Bug Hunter, and Security Researcher. With
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Caesar_Crypt](https://github.com/)**     | Short Description |
+| **[Muscle_Passwd](https://github.com/)**    | Short Description |
+| **[Simple_Keylogger](https://github.com/)** | Short Description | 
+| **[NetSniff](https://github.com/)**         | Short Description |
 
 ---
