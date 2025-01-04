@@ -63,9 +63,11 @@ I'm Abhijith, a Certified SOC Analyst, Bug Hunter, and Security Researcher. With
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Caesar_Crypt](https://github.com/)**     | Short Description |
-| **[Muscle_Passwd](https://github.com/)**    | Short Description |
-| **[Simple_Keylogger](https://github.com/)** | Short Description | 
-| **[NetSniff](https://github.com/)**         | Short Description |
+| **[Caesar_Crypt](https://github.com/AbhijithSivakumar/CAESAR_CRYPT.git)**     | A tool to encrypt/decrypt plaintext to ciphertext and viceversa using Caesar cipher. |
+| **[Muscle_Passwd](https://github.com/AbhijithSivakumar/Muscle_Passwd.git)**    | A tool that checks password strength and its complexity. |
+| **[Simple_Keylogger](https://github.com/AbhijithSivakumar/SIMPLE_KEYLOGGER.git)** | A code that logs every keystrokes from user and saves it in a notepad file. | 
+| **[NetSniff](https://github.com/AbhijithSivakumar/NetSniff.git)**         | A tool that captures and analyzes network packets and displays relevant information. |
+| **[Setting_up-Wazuh-with-FIM-and-VirusTotal_Integration](https://github.com/AbhijithSivakumar/Setting_up-Wazuh-with-FIM-and-VirusTotal_Integration.git)**         | A guide on how to implement malicious file log monitoring on Wazuh. |
+
 
 ---
