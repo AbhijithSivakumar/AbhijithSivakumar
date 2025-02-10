@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Abhijith, a Certified SOC Analyst, Bug Hunter, and Security Researcher. With expertise in Vulnerability Assessment, Penetration Testing, Log Monitoring and Analysis and Ethical hacking, I aim to set a career in a SOC Environment as an analyst. My goal is to acquire skills and knowledge through continuous learning.
+I'm Abhijith, a Certified SOC Analyst, Bug Hunter, and Security Researcher. With expertise in Vulnerability Assessment, Web Application Penetration Testing, Log Monitoring and Analysis and Ethical hacking, I aim to set a career in a SOC Environment as an analyst or as a Pentester. My goal is to acquire skills and knowledge through continuous learning.
 
 <a href="https://www.linkedin.com/in/abhijith-sivakumar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
